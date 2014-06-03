@@ -20,10 +20,10 @@ Windows
 	*	irc.login=YIB_YDK_YOURNICK
 	*	irc.name=YIB_YDK_YOURNICK
 
-Unix
-----
+Linux and Mac OSX
+-----------------
 
-*	Set the path of settings.conf in run.bat  
+*	Set the path of settings.conf in run.sh  
 	Example:
 	*	file:///home/username/YDK-Path/settings.conf
 
