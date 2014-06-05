@@ -10,7 +10,7 @@ function init(manager) {
 }
 function exec(command, args) {
 	if (command == "list") {
-		var out = ""
+		var out = "";
 		for (var i in m.getPlugins()) {
 			out += m.getPlugins()[i].getName() + "|"
 		}
