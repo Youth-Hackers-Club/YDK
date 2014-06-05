@@ -8,12 +8,12 @@ Windows
 
 *	Set the path of settings.conf in run.bat  
 	Example:
-	*	file:///C:\users\username\YDK-Path\settings.conf
+	*	C:\Users\username\YDK-Path\settings.conf
 
 *	Set the path of the plugins folder and update file in settings.conf  
 	Example:
-	*	file:///C:\users\username\YDK-Path\plugins\
-	*	file:///C:\users\username\YDK-Path\update
+	*	C:\users\username\YDK-Path\plugins\
+	*	C:\users\username\YDK-Path\update
 
 *	Set irc.name and irc.login to YIB_YDK_YOURNICK (replace YOURNICK with you own irc name)  
 	Example:
